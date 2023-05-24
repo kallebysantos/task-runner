@@ -1,0 +1,11 @@
+[
+  {
+    "Id": "1",
+    "Assembly": "TaskRunner.Example.dll",
+    "ExecutorName": "Hello World Executor",
+    "Interval": 30,
+    "Parameters": {
+      "name": "Foo Bar"
+    }
+  }
+]
